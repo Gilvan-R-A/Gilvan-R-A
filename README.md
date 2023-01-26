@@ -8,7 +8,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gilvan-R-A&show_icons=true&include_all_commits=true)](https://github.com/Gilvan-R-A/github-readme-stats)   
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&include_all_commits=true)](https://github.com/Gilvan-R-A/github-readme-stats)   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gilvan-R-A)](https://github.com/anuraghazra/github-readme-stats)
 
