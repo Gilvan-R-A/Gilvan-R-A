@@ -4,9 +4,9 @@
 
 # Gilvan Alves 😄
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gilvan-R-A)](https://github.com/Gilvan-R-A/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gilvan-R-A&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=020114&title_color=7520FF&text_color=FFF&border_radius=3&border_color=181832&icon_color=7520FF&theme=jolly)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gilvan-R-A)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gilvan-R-A&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=7520FF&hide=html,css&bg_color=020114&text_color=8B8B8B&border_radius=3&border_color=181832)](https://github.com/elidianaandrade/github-readme-stats)
 
 # Sobre
 
