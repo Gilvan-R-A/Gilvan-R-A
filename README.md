@@ -10,7 +10,7 @@
 
 # Sobre
 
-Aluno de Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá (3º semestre), já estagiei com desenvolvimento de software e atualmente estou aprendendo C# .NET, SOLID e DESIGN PATTERNS.
+Aluno de Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá (4º semestre), já estagiei com desenvolvimento de software e atualmente estou aprendendo C# .NET, SOLID e DESIGN PATTERNS.
 
 # ⚡ Tecnologias       
 
