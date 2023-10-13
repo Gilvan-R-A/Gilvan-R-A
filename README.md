@@ -10,13 +10,16 @@
 
 # Sobre
 
-Aluno de Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá (4º semestre), já estagiei com desenvolvimento de software e atualmente estou aprendendo C# .NET, SOLID e DESIGN PATTERNS.
+Aluno do 4º semestre de Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá com conclusão prevista para dezembro de 2024.  
+ 
+Já estagiei com desenvolvimento de software utilizando Angular, Typescript, Bootstrap e atualmente estou aprendendo Design Patterns, AWS e React.
 
 # ⚡ Tecnologias       
 
 - Desenvolvimento Backend utilizando **Java, Spring Boot, Spring Framework, C#, PHP e Node.js**
 - Desenvolvimento Frontend utilizando **Angular, HTML, CSS, Javascript e Typescript**
 - Banco de dados relacional utilizando **PostgreSQL, MySQL e SQL Server**
+- Banco NoSQL utilizando MongoDB
 - Controle de versão utilizando **GIT**
 - Metodologias Ágeis (**Scrum**)   
 
