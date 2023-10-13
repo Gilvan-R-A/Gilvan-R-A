@@ -19,7 +19,7 @@ Já estagiei com desenvolvimento de software utilizando Angular, Typescript, Boo
 - Desenvolvimento Backend utilizando **Java, Spring Boot, Spring Framework, C#, PHP e Node.js**
 - Desenvolvimento Frontend utilizando **Angular, HTML, CSS, Javascript e Typescript**
 - Banco de dados relacional utilizando **PostgreSQL, MySQL e SQL Server**
-- Banco NoSQL utilizando MongoDB
+- Banco NoSQL utilizando **MongoDB**
 - Controle de versão utilizando **GIT**
 - Metodologias Ágeis (**Scrum**)   
 
