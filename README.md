@@ -10,7 +10,7 @@
 
 # Sobre
 
-Aluno do 4º semestre de Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá com conclusão prevista para dezembro de 2024.  
+Desenvolvedor Fullstack e aluno do 4º semestre de Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá com conclusão prevista para dezembro de 2024.  
  
 Já estagiei com desenvolvimento de software utilizando Angular, Typescript, Bootstrap e atualmente estou aprendendo Design Patterns, AWS e React.
 
