@@ -13,7 +13,6 @@
 Olá, sou Gilvan Alves, Desenvolvedor FullStack. Estou cursando o 6º semestre de Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá, com conclusão prevista para dezembro de 2024.
 Estudo desenvolvimento de software desde 2019 e sempre busco conhecer as principais tendências tecnológicas, seja através de cursos online, documentações e eventos.   
 Para mim, criar soluções tecnológicas é magnífico, gratificante e motiva superar meus limites, desenvolver conhecimentos e habilidades na prática.   
-Obrigado por visitar meu perfil. Conecte-se para compartilhar experiências sobre tecnologia e até mesmo trabalharmos juntos.
 
 
 
