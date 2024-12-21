@@ -19,7 +19,8 @@
   
    - **DevOps:** Docker, Git;
   
-   - **Outras:** APIs Restful, Design Patterns, SOLID, testes automatizados com JUnit, Mockito, Postman.
+   - **Qualidade:** Testes automatizados com JUnit, Mockito, Postman.;
+   - **Metodologias:** Scrum, SOLID, Design Patterns, API Restful, UML.
 - 💼 **Experiência:**
    - Durante meu estágio, trabalhei em projetos com Angular, PHP e Laravel em um ambiente ágil (Scrum).
    - Desenvolvi frontend e backend para sistemas web e APIs Restful durante a graduação, adquirindo experiência prática em tecnologias modernas.
