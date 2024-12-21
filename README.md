@@ -1,19 +1,9 @@
 ## 👋 Olá, sou Gilvan Alves!   
 
- 
-
 💻 **Desenvolvedor Fullstack** focado em tecnologia, inovação e aprendizado contínuo. Atualmente, estou cursando o 6º semestre de **Análise e Desenvolvimento de Sistemas** na Universidade Estácio de Sá e desenvolvendo projetos que combinam criatividade e eficiência para resolver problemas reais.   
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gilvan&#8208;Alves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilvanribeiroalves/)](https://www.linkedin.com/in/gilvanribeiroalves/)
 [![Gmail Badge](https://img.shields.io/badge/-gilvan.alves724@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gilvan.alves724@gmail.com)](mailto:gilvan.alves724@gmail.com)  
-
-
-
-
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-Gilvan&#8208;Alves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilvan-alves-11ab061a0/)](https://www.linkedin.com/in/gilvan-alves-11ab061a0/)
-[![Gmail Badge](https://img.shields.io/badge/-gilvan.office@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gilvan.office@gmail.com)](mailto:gilvan.office@gmail.com)  
 
 #   
 ### 🚀 Sobre Mim
@@ -51,7 +41,7 @@ Aqui no meu GitHub, você encontrará:
 ### 📫 Quer saber mais sobre meu trabalho ou construir algo incrível juntos? Estou à disposição!  
 
 - 🌐 LinkedIn - [Gilvan Alves](https://www.linkedin.com/in/gilvanribeiroalves/)
-- 📧 Email - [gilvan.alves724@gmail.com](gilvan.alves724@gmail.com)
+- 📧 Email - [gilvan.alves724@gmail.com](mailto:gilvan.alves724@gmail.com)
 
 Estou sempre aberto a novos desafios e colaborações! 🚀
 
