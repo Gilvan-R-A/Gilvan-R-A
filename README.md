@@ -1,6 +1,6 @@
 ## 👋 Olá, sou Gilvan Alves!   
 
-💻 **Desenvolvedor Fullstack** focado em tecnologia, inovação e aprendizado contínuo. Atualmente, estou cursando o 6º semestre de **Análise e Desenvolvimento de Sistemas** na Universidade Estácio de Sá e desenvolvendo projetos que combinam criatividade e eficiência para resolver problemas reais.   
+💻 **Desenvolvedor Fullstack** focado em tecnologia, inovação e aprendizado contínuo. Graduado em **Análise e Desenvolvimento de Sistemas** pelo Centro Universitário Estácio de Brasília, desenvolvo projetos que combinam criatividade e eficiência para resolver problemas reais.   
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gilvan&#8208;Alves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilvanribeiroalves/)](https://www.linkedin.com/in/gilvanribeiroalves/)
 [![Gmail Badge](https://img.shields.io/badge/-gilvan.alves724@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gilvan.alves724@gmail.com)](mailto:gilvan.alves724@gmail.com)  
