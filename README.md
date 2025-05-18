@@ -11,11 +11,11 @@
 - 🎯 **Objetivo:** Consolidar minha carreira como Desenvolvedor Fullstack, criando soluções tecnológicas que agreguem valor a empresas e melhorem a vida das pessoas.
 - 🛠️ **Habilidades Técnicas:**
   
-    - **Frontend:** Angular, JavaScript, TypeScript, JQuery;
+    - **Frontend:** Angular, React, JavaScript, TypeScript, JQuery;
   
    - **Backend:** Java (Spring Boot, JEE, JPA), Node.js, PHP, Laravel, Python;
   
-   - **Banco de Dados:** MySQL, PostegreSQL, MongoDB;
+   - **Banco de Dados:** MySQL, PostgreSQL, MongoDB;
   
    - **DevOps:** Docker, Git;
   
