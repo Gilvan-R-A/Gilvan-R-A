@@ -33,9 +33,10 @@ Aqui no meu GitHub, você encontrará:
    - Repositórios com implementações de **design patterns** e boas práticas em desenvolvimento.
    - Experimentos e aprendizados em **Docker, JUnit e tecnologias Fullstack.**
 
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gilvan-R-A&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&border_radius=3)   
+ 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gilvan-R-A&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=7520FF&hide=html,css)](https://github.com/elidianaandrade/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gilvan-R-A&show_icons=true&include_all_commits=false&count_private=true&line-height=25&hide=issues&border_radius=5&theme=radical)  
+
 
 #   
 
