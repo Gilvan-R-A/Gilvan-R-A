@@ -35,9 +35,8 @@ Aqui no meu GitHub, você encontrará:
 
  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gilvan-R-A&show_icons=true&include_all_commits=false&count_private=true&line-height=25&hide=issues&border_radius=5&theme=radical)  
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilvan-R-A&layout=compact&langs_count=6&theme=radical"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gilvan-R-A&show_icons=true&include_all_commits=false&count_private=true&line-height=25&hide=issues&border_radius=5&theme=radical)
+<img height="171em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilvan-R-A&layout=compact&langs_count=6&theme=radical"/>
 
 #   
 
